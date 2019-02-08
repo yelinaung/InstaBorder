@@ -2,6 +2,5 @@
 
 Bring your Instagram photo game to the next level. Seeing is believing.
 
-![Screenshot 1](/images/screenshot_1.png)
-![Screenshot 2](/images/screenshot_2.png)
-
+<img src="/images/screenshot_1.png" width="500">
+<img src="/images/screenshot_2.png" width="500">
