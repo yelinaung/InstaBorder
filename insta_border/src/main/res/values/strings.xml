@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InstaBorder</string>
+    <string name="border_value">+%1$s</string>
+</resources>
